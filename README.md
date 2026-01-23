@@ -22,7 +22,7 @@
 - 🎓 Estudio **Licenciatura/Analista en Sistemas** en la **UNLP**.
 - 💻 Trabajo actualmente como **administrativo** para importante PYME en La Plata.
 - 🚀 Objetivo actual: crecer como dev, mejorar diseño de sistemas y construir proyectos con impacto real.
-- 🏠 No dudes en dejarme un mensaje **👋** en Linkedin – [https://discordapp.com/users/957722095381540874](https://www.linkedin.com/in/michael-vasquez-4b4827205/)
+- 🏠 No dudes en dejarme un mensaje **👋** en Linkedin – https://www.linkedin.com/in/michael-vasquez-4b4827205/
 <!--Intro end-->
 
 
