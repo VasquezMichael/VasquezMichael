@@ -24,7 +24,7 @@
 - 🚀 Objetivo actual: crecer como dev, mejorar diseño de sistemas y construir proyectos con impacto real.
 - 🏠 No dudes en dejarme un mensaje **👋** en Linkedin – https://www.linkedin.com/in/michael-vasquez-4b4827205/
 <!--Intro end-->
-
+<br></br>
 
 
 <!--- stats & Trophy (start) -->
@@ -35,7 +35,6 @@
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VasquezMichael&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VasquezMichael&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
