@@ -56,7 +56,10 @@
 </div>
 <!--- trophy (start) -->
 
-
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VasquezMichael&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasquezMichael&layout=compact&theme=dark&hide_border=true" />
+</p>
 </p>        
 <!--- stats (end) -->
 
