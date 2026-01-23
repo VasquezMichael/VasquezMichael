@@ -5,40 +5,24 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Michael</h1></summary>
   </ul>
-</div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
 </div>
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Estudiante de Licenciatura en Sistemas en la UNLP</h2></summary>
   </ul>
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+## Sobre mí
+- 🎓 Estudio **Licenciatura/Analista en Sistemas** en la **UNLP**.
+- 💻 Trabajo actualmente como **administrativo** para importante PYME en La Plata.
+- 🚀 Objetivo actual: crecer como dev, mejorar diseño de sistemas y construir proyectos con impacto real.
+- 🏠 No dudes en dejarme un mensaje **👋** en Linkedin –  [1010nishant]([https://discordapp.com/users/957722095381540874](https://www.linkedin.com/in/michael-vasquez-4b4827205/))
 <!--Intro end-->
 
 
