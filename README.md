@@ -21,11 +21,12 @@
   <tr>
     <!-- COLUMNA IZQUIERDA -->
     <td width="55%" valign="top">
-      <h2>👋 Sobre mí</h2>
+      <h2>Sobre mí</h2>
       <ul>
-        <li>🌱 Estoy aprendiendo <b>Web Development</b> y otros lenguajes.</li>
-        <li>📫 Contacto: <a href="mailto:TU_EMAIL">TU_EMAIL</a></li>
-        <li>⚡ Fun fact: Food y Music 🎵</li>
+        <li>🎓 Estudio **Licenciatura/Analista en Sistemas** en la **UNLP**.</li>
+        <li>💻 +3 años de experiencia como **administrativo** para importante PYME en La Plata.</li>
+        <li>🚀 Objetivo actual: crecer como dev, mejorar diseño de sistemas y construir proyectos con impacto real.</li>
+        <li>🏠 No dudes en dejarme un mensaje **👋** en Linkedin – https://www.linkedin.com/in/michael-vasquez-4b4827205/</li>
       </ul>
     </td>
     <!-- COLUMNA DERECHA -->
@@ -34,15 +35,6 @@
     </td>
   </tr>
 </table>
-
-## Sobre mí
-- 🎓 Estudio **Licenciatura/Analista en Sistemas** en la **UNLP**.
-- 💻 +3 años de experiencia como **administrativo** para importante PYME en La Plata.
-- 🚀 Objetivo actual: crecer como dev, mejorar diseño de sistemas y construir proyectos con impacto real.
-- 🏠 No dudes en dejarme un mensaje **👋** en Linkedin – https://www.linkedin.com/in/michael-vasquez-4b4827205/
-<!--Intro end-->
-<br></br>
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
