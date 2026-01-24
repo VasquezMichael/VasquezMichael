@@ -16,7 +16,7 @@
     <summary><h2 style="display: inline-block">Estudiante de Licenciatura en Sistemas en la UNLP</h2></summary>
   </ul>
 </div>
-
+<br>
 <table width="100%">
   <tr>
     <!-- COLUMNA IZQUIERDA -->
@@ -35,7 +35,7 @@
     </td>
   </tr>
 </table>
-
+<br>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
