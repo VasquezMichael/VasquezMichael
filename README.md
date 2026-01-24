@@ -5,36 +5,29 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
     <ul align="center">
-   <summary> <h1 style="margin: 0;">Hola 👋, Soy Michael</h1></summary>
-</ul>
+        <summary> <h1 style="margin: 0;">Hola 👋, Soy Michael</h1></summary>
+        <!--h2 without bottom border-->
+        <summary><h2 style="display: inline-block">Estudiante de Licenciatura en Sistemas en la UNLP</h2></summary>
+    </ul>
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Estudiante de Licenciatura en Sistemas en la UNLP</h2></summary>
-  </ul>
-</div>
+ <p align="center">  <img aling ="center" src="./MikeAvatar01.png" alt="developer illustration" width="460"/> </p>
+  
 <br>
-<table width="100%">
-  <tr>
-    <!-- COLUMNA IZQUIERDA -->
-    <td width="55%" valign="top">
-      <h2>Sobre mí</h2>
-      <ul>
-        <li>🎓 Estudio **Licenciatura/Analista en Sistemas** en la **UNLP**.</li>
-        <li>💻 +3 años de experiencia como **administrativo** para importante PYME en La Plata.</li>
-        <li>🚀 Objetivo actual: crecer como dev, mejorar diseño de sistemas y construir proyectos con impacto real.</li>
-        <li>🏠 No dudes en dejarme un mensaje **👋** en Linkedin – https://www.linkedin.com/in/michael-vasquez-4b4827205/</li>
-      </ul>
-    </td>
-    <!-- COLUMNA DERECHA -->
-    <td width="45%" valign="top" align="center">
-      <img src="./MikeAvatar01.png" alt="developer illustration" width="420"/>
-    </td>
-  </tr>
-</table>
+
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:24px; width:100%;">
+    <div style="flex:1; min-width:260px;">
+        <h2>Sobre mí</h2>
+          <ul>
+            <li>🎓 Estudio **Licenciatura/Analista en Sistemas** en la **UNLP**.</li>
+            <li>💻 +3 años de experiencia como **administrativo** para importante PYME en La Plata.</li>
+            <li>🚀 Objetivo actual: crecer como dev, mejorar diseño de sistemas y construir proyectos con impacto real.</li>
+            <li>🏠 No dudes en dejarme un mensaje **👋** en Linkedin – https://www.linkedin.com/in/michael-vasquez-4b4827205/</li>
+          </ul>
+    </div>
+</div>
+
+
 <br>
 
 <!--- stats & Trophy (start) -->
