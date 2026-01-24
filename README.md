@@ -7,6 +7,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, Soy Michael</h1></summary>
   </ul>
+  
 </div>
 
 
@@ -38,7 +39,7 @@
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VasquezMichael&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VasquezMichael&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=Rich%20Text%20Format"/>
   </td>
 </tr>
 </table>
