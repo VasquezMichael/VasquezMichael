@@ -17,10 +17,23 @@
   </ul>
 </div>
 
-<div align="center" style="display: inline-flex; align-items: center; gap: 12px;">
-  <h1 style="margin: 0;">Hola, soy Micha 👋</h1>
-  <img src="./MikeAvatar01.png" alt="avatar" width="48" height="48" style="border-radius: 50%;" />
-</div> 
+<table width="100%">
+  <tr>
+    <!-- COLUMNA IZQUIERDA -->
+    <td width="55%" valign="top">
+      <h2>👋 Sobre mí</h2>
+      <ul>
+        <li>🌱 Estoy aprendiendo <b>Web Development</b> y otros lenguajes.</li>
+        <li>📫 Contacto: <a href="mailto:TU_EMAIL">TU_EMAIL</a></li>
+        <li>⚡ Fun fact: Food y Music 🎵</li>
+      </ul>
+    </td>
+    <!-- COLUMNA DERECHA -->
+    <td width="45%" valign="top" align="center">
+      <img src="./MikeAvatar01.png" alt="developer illustration" width="420"/>
+    </td>
+  </tr>
+</table>
 
 ## Sobre mí
 - 🎓 Estudio **Licenciatura/Analista en Sistemas** en la **UNLP**.
