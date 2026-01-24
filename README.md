@@ -7,11 +7,11 @@
     <ul align="center">
         <summary> <h1 style="margin: 0;">Hola 👋, Soy Michael</h1></summary>
         <!--h2 without bottom border-->
-        <summary><h2 style="display: inline-block">Estudiante de Licenciatura en Sistemas en la UNLP</h2></summary>
+        <summary><h2 style="display: inline-block">Estudiante de Licenciatura en Sistemas en la UNLP.</h2></summary>
     </ul>
 </div>
 
- <p align="center">  <img aling ="center" src="./MikeAvatar01.png" alt="developer illustration" width="460"/> </p>
+ <p align="center">  <img aling ="center" src="./MikeAvatar01.png" alt="developer illustration" width="450"/> </p>
   
 <br>
 
