@@ -6,7 +6,7 @@
 <div id="user-content-toc" align="center" style="display: inline-flex; align-items: center; gap: 12px;">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, Soy Michael</h1></summary>
-    <img src="./assets/avatar.png" alt="avatar" width="48" height="48" style="border-radius: 50%;" />
+    <img src="./MikeAvatar01.png" alt="avatar" width="48" height="48" style="border-radius: 50%;" />
   </ul>
   
 </div>
