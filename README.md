@@ -3,9 +3,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc" align="center" style="display: inline-flex; align-items: center; gap: 12px;">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, Soy Michael</h1></summary>
+    <img src="./assets/avatar.png" alt="avatar" width="48" height="48" style="border-radius: 50%;" />
   </ul>
   
 </div>
