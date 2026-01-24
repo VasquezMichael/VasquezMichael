@@ -36,6 +36,7 @@
   </tr>
 </table>
 <br>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -51,12 +52,10 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
 </p>        
-<!--- stats (end) -->
 
-<!--h1 without bottom border-->
+<br>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tech Stack (Skills)👨🏻‍💻</h2></summary>
@@ -68,7 +67,7 @@
     <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,express,figma,firebase,github,html,java,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,py,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
-
+<br>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
