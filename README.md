@@ -19,10 +19,10 @@
     <div style="flex:1; min-width:260px;">
         <h2>Sobre mí</h2>
           <ul>
-            <li>🎓 Estudio **Licenciatura/Analista en Sistemas** en la **UNLP**.</li>
-            <li>💻 +3 años de experiencia como **administrativo** para importante PYME en La Plata.</li>
+            <li>🎓 Estudio Licenciatura/Analista en Sistemas en la Universidad Nacional de La Plata.</li>
+            <li>💻 +3 años de experiencia como administrativo para importante PYME en La Plata.</li>
             <li>🚀 Objetivo actual: crecer como dev, mejorar diseño de sistemas y construir proyectos con impacto real.</li>
-            <li>🏠 No dudes en dejarme un mensaje **👋** en Linkedin – https://www.linkedin.com/in/michael-vasquez-4b4827205/</li>
+            <li>🏠 No dudes en dejarme un mensaje en Linkedin 👋 – https://www.linkedin.com/in/michael-vasquez-4b4827205/</li>
           </ul>
     </div>
 </div>
