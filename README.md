@@ -17,6 +17,10 @@
   </ul>
 </div>
 
+<div align="center" style="display: inline-flex; align-items: center; gap: 12px;">
+  <h1 style="margin: 0;">Hola, soy Micha 👋</h1>
+  <img src="./MikeAvatar01.png" alt="avatar" width="48" height="48" style="border-radius: 50%;" />
+</div> 
 
 ## Sobre mí
 - 🎓 Estudio **Licenciatura/Analista en Sistemas** en la **UNLP**.
