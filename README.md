@@ -4,11 +4,8 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc" align="center" style="display: inline-flex; align-items: center; gap: 12px;">
-  <ul align="center">
-    <summary><h1 style="margin: 0;">Hola 👋, Soy Michael</h1></summary>
+    <h1 style="margin: 0;">Hola 👋, Soy Michael</h1>
     <img src="./MikeAvatar01.png" alt="avatar" width="48" height="48" style="border-radius: 50%;" />
-  </ul>
-  
 </div>
 
 
