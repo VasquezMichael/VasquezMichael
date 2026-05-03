@@ -32,20 +32,26 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VasquezMichael&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-</td>
-
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VasquezMichael&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=Rich%20Text%20Format"/>
-  </td>
-</tr>
-</table>
-</p>        
+  <table align="center">
+    <tr>
+      <td width="50%" align="center">
+        <img 
+          align="center"
+          src="https://github-readme-stats.vercel.app/api?username=VasquezMichael&theme=dark&show_icons=true&hide_border=false"
+          alt="Michael GitHub Stats"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          align="center"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasquezMichael&theme=dark&hide_border=false&layout=compact&langs_count=10&hide=Rich%20Text%20Format"
+          alt="Most Used Languages"
+        />
+      </td>
+    </tr>
+  </table>
+</p>
+<!--- stats & Trophy (end) -->  
 
 <br>
 
