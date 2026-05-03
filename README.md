@@ -36,7 +36,7 @@
       <td align="center">
         <img 
           height="180"
-          src="https://github-readme-stats.vercel.app/api?username=VasquezMichael&theme=dark&show_icons=true&hide_border=false"
+          src="https://github-readme-stats.vercel.app/api?username=VasquezMichael&theme=dark&show_icons=true&hide_border=false&count_private=true"
           alt="Michael GitHub Stats"
         />
       </td>
