@@ -30,20 +30,19 @@
 
 <br>
 
-<!--- stats & Trophy (start) -->
 <p align="center">
   <table align="center">
     <tr>
-      <td width="50%" align="center">
+      <td align="center">
         <img 
-          align="center"
+          height="180"
           src="https://github-readme-stats.vercel.app/api?username=VasquezMichael&theme=dark&show_icons=true&hide_border=false"
           alt="Michael GitHub Stats"
         />
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <img
-          align="center"
+          height="180"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasquezMichael&theme=dark&hide_border=false&layout=compact&langs_count=10&hide=Rich%20Text%20Format"
           alt="Most Used Languages"
         />
@@ -51,7 +50,6 @@
     </tr>
   </table>
 </p>
-<!--- stats & Trophy (end) -->  
 
 <br>
 
